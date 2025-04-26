@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asiman\\source\\repos\\PizzaMizza-AdoNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC4D3BB-CEB3-4F8F-A401-E994F58DF94E}|PizzaMizza-AdoNet\\PizzaMizza-AdoNet.csproj|c:\\users\\asiman\\source\\repos\\pizzamizza-adonet\\pizzamizza-adonet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC4D3BB-CEB3-4F8F-A401-E994F58DF94E}|PizzaMizza-AdoNet\\PizzaMizza-AdoNet.csproj|solutionrelative:pizzamizza-adonet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC4D3BB-CEB3-4F8F-A401-E994F58DF94E}|PizzaMizza-AdoNet\\PizzaMizza-AdoNet.csproj|c:\\users\\asiman\\source\\repos\\pizzamizza-adonet\\pizzamizza-adonet\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC4D3BB-CEB3-4F8F-A401-E994F58DF94E}|PizzaMizza-AdoNet\\PizzaMizza-AdoNet.csproj|solutionrelative:pizzamizza-adonet\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC4D3BB-CEB3-4F8F-A401-E994F58DF94E}|PizzaMizza-AdoNet\\PizzaMizza-AdoNet.csproj|c:\\users\\asiman\\source\\repos\\pizzamizza-adonet\\pizzamizza-adonet\\models\\pizzaingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC4D3BB-CEB3-4F8F-A401-E994F58DF94E}|PizzaMizza-AdoNet\\PizzaMizza-AdoNet.csproj|solutionrelative:pizzamizza-adonet\\models\\pizzaingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC4D3BB-CEB3-4F8F-A401-E994F58DF94E}|PizzaMizza-AdoNet\\PizzaMizza-AdoNet.csproj|c:\\users\\asiman\\source\\repos\\pizzamizza-adonet\\pizzamizza-adonet\\repositories\\implementations\\pizzaingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC4D3BB-CEB3-4F8F-A401-E994F58DF94E}|PizzaMizza-AdoNet\\PizzaMizza-AdoNet.csproj|solutionrelative:pizzamizza-adonet\\repositories\\implementations\\pizzaingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC4D3BB-CEB3-4F8F-A401-E994F58DF94E}|PizzaMizza-AdoNet\\PizzaMizza-AdoNet.csproj|c:\\users\\asiman\\source\\repos\\pizzamizza-adonet\\pizzamizza-adonet\\repositories\\implementations\\ingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC4D3BB-CEB3-4F8F-A401-E994F58DF94E}|PizzaMizza-AdoNet\\PizzaMizza-AdoNet.csproj|solutionrelative:pizzamizza-adonet\\repositories\\implementations\\ingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC4D3BB-CEB3-4F8F-A401-E994F58DF94E}|PizzaMizza-AdoNet\\PizzaMizza-AdoNet.csproj|c:\\users\\asiman\\source\\repos\\pizzamizza-adonet\\pizzamizza-adonet\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC4D3BB-CEB3-4F8F-A401-E994F58DF94E}|PizzaMizza-AdoNet\\PizzaMizza-AdoNet.csproj|solutionrelative:pizzamizza-adonet\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC4D3BB-CEB3-4F8F-A401-E994F58DF94E}|PizzaMizza-AdoNet\\PizzaMizza-AdoNet.csproj|c:\\users\\asiman\\source\\repos\\pizzamizza-adonet\\pizzamizza-adonet\\repositories\\implementations\\pizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC4D3BB-CEB3-4F8F-A401-E994F58DF94E}|PizzaMizza-AdoNet\\PizzaMizza-AdoNet.csproj|solutionrelative:pizzamizza-adonet\\repositories\\implementations\\pizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC4D3BB-CEB3-4F8F-A401-E994F58DF94E}|PizzaMizza-AdoNet\\PizzaMizza-AdoNet.csproj|c:\\users\\asiman\\source\\repos\\pizzamizza-adonet\\pizzamizza-adonet\\repositories\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC4D3BB-CEB3-4F8F-A401-E994F58DF94E}|PizzaMizza-AdoNet\\PizzaMizza-AdoNet.csproj|solutionrelative:pizzamizza-adonet\\repositories\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC4D3BB-CEB3-4F8F-A401-E994F58DF94E}|PizzaMizza-AdoNet\\PizzaMizza-AdoNet.csproj|c:\\users\\asiman\\source\\repos\\pizzamizza-adonet\\pizzamizza-adonet\\constants\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC4D3BB-CEB3-4F8F-A401-E994F58DF94E}|PizzaMizza-AdoNet\\PizzaMizza-AdoNet.csproj|solutionrelative:pizzamizza-adonet\\constants\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC4D3BB-CEB3-4F8F-A401-E994F58DF94E}|PizzaMizza-AdoNet\\PizzaMizza-AdoNet.csproj|c:\\users\\asiman\\source\\repos\\pizzamizza-adonet\\pizzamizza-adonet\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC4D3BB-CEB3-4F8F-A401-E994F58DF94E}|PizzaMizza-AdoNet\\PizzaMizza-AdoNet.csproj|solutionrelative:pizzamizza-adonet\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PizzaIngredient.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PizzaMizza-AdoNet\\PizzaMizza-AdoNet\\Models\\PizzaIngredient.cs",
+              "RelativeDocumentMoniker": "PizzaMizza-AdoNet\\Models\\PizzaIngredient.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PizzaMizza-AdoNet\\PizzaMizza-AdoNet\\Models\\PizzaIngredient.cs",
+              "RelativeToolTip": "PizzaMizza-AdoNet\\Models\\PizzaIngredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:42:30.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PizzaIngredientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PizzaMizza-AdoNet\\PizzaMizza-AdoNet\\Repositories\\Implementations\\PizzaIngredientRepository.cs",
+              "RelativeDocumentMoniker": "PizzaMizza-AdoNet\\Repositories\\Implementations\\PizzaIngredientRepository.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PizzaMizza-AdoNet\\PizzaMizza-AdoNet\\Repositories\\Implementations\\PizzaIngredientRepository.cs",
+              "RelativeToolTip": "PizzaMizza-AdoNet\\Repositories\\Implementations\\PizzaIngredientRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:42:16.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PizzaMizza-AdoNet\\PizzaMizza-AdoNet\\Models\\Ingredient.cs",
+              "RelativeDocumentMoniker": "PizzaMizza-AdoNet\\Models\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PizzaMizza-AdoNet\\PizzaMizza-AdoNet\\Models\\Ingredient.cs",
+              "RelativeToolTip": "PizzaMizza-AdoNet\\Models\\Ingredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:38:48.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IngredientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PizzaMizza-AdoNet\\PizzaMizza-AdoNet\\Repositories\\Implementations\\IngredientRepository.cs",
+              "RelativeDocumentMoniker": "PizzaMizza-AdoNet\\Repositories\\Implementations\\IngredientRepository.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PizzaMizza-AdoNet\\PizzaMizza-AdoNet\\Repositories\\Implementations\\IngredientRepository.cs",
+              "RelativeToolTip": "PizzaMizza-AdoNet\\Repositories\\Implementations\\IngredientRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:35:11.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PizzaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PizzaMizza-AdoNet\\PizzaMizza-AdoNet\\Repositories\\Implementations\\PizzaRepository.cs",
+              "RelativeDocumentMoniker": "PizzaMizza-AdoNet\\Repositories\\Implementations\\PizzaRepository.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PizzaMizza-AdoNet\\PizzaMizza-AdoNet\\Repositories\\Implementations\\PizzaRepository.cs",
+              "RelativeToolTip": "PizzaMizza-AdoNet\\Repositories\\Implementations\\PizzaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:13:18.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PizzaMizza-AdoNet\\PizzaMizza-AdoNet\\Repositories\\Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "PizzaMizza-AdoNet\\Repositories\\Abstractions\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PizzaMizza-AdoNet\\PizzaMizza-AdoNet\\Repositories\\Abstractions\\IRepository.cs",
+              "RelativeToolTip": "PizzaMizza-AdoNet\\Repositories\\Abstractions\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:12:06.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PizzaMizza-AdoNet\\PizzaMizza-AdoNet\\Program.cs",
+              "RelativeDocumentMoniker": "PizzaMizza-AdoNet\\Program.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PizzaMizza-AdoNet\\PizzaMizza-AdoNet\\Program.cs*",
+              "RelativeToolTip": "PizzaMizza-AdoNet\\Program.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwDgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:08:51.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PizzaMizza-AdoNet\\PizzaMizza-AdoNet\\Models\\Pizza.cs",
+              "RelativeDocumentMoniker": "PizzaMizza-AdoNet\\Models\\Pizza.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PizzaMizza-AdoNet\\PizzaMizza-AdoNet\\Models\\Pizza.cs",
+              "RelativeToolTip": "PizzaMizza-AdoNet\\Models\\Pizza.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:09:25.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConnectionStrings.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PizzaMizza-AdoNet\\PizzaMizza-AdoNet\\Constants\\ConnectionStrings.cs",
+              "RelativeDocumentMoniker": "PizzaMizza-AdoNet\\Constants\\ConnectionStrings.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PizzaMizza-AdoNet\\PizzaMizza-AdoNet\\Constants\\ConnectionStrings.cs",
+              "RelativeToolTip": "PizzaMizza-AdoNet\\Constants\\ConnectionStrings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:15:40.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PizzaMizza-AdoNet\\PizzaMizza-AdoNet\\Models\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "PizzaMizza-AdoNet\\Models\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PizzaMizza-AdoNet\\PizzaMizza-AdoNet\\Models\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "PizzaMizza-AdoNet\\Models\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:09:11.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
